@@ -1,0 +1,9 @@
+gitignore
+CopyEdit
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+.venv
